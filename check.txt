@@ -1,0 +1,1 @@
+This is the check.txt file inside the master but for the branching rules it's create a new branch for the newly created pr
